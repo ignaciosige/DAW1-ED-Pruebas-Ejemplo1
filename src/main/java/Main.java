@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Main {
 
-  private static final int NUM1 = 5;
+  //private static final int NUM1 = 5;
   private static final int NUM2 = 2;
   private static final int NUM3 = 10;
 

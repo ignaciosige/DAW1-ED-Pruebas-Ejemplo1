@@ -17,7 +17,9 @@ jdk:
 #        secure: ${SONAR_TOKEN}
 script:
   - ./gradlew build test jacocoTestReport
-  - echo "Hola, soy José Antonio"
+  - echo "Hola, soy Igacio"
+  -Is build
+  -gradle run
 ##  - ./gradlew sonarqube  #  -Dsonar.organization=jamj2000-github   -Dsonar.host.url=https://sonarcloud.io 
 #after_success:
 ##  - bash <(curl -s https://codecov.io/bash)
